@@ -1,0 +1,5 @@
+ATmega328P
+----------
+HFUSE = 0xDA # 1024 words Boot Flash
+LFUSE = 0xE2 # Int. RC Osc. 8MHz
+EFUSE = 0xFE # 1.8V Brown-out
