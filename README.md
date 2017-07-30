@@ -1,8 +1,11 @@
 # vCard
-vCard is an business card with 12 x 8 LED-Matrix (total 96 LEDs) and microcontroller.
-The device is pre-programmed with the Arduino compatible Bootloader and powered by a CR2032 button cell.
+vCard is an business card with 12 x 8 LED-Matrix (total 96 LEDs) and AVR microcontroller.
 
-[![vCard](https://github.com/watterott/vCard/raw/master/hardware/vCard_v10.jpg)](http://www.watterott.com/en/V-Card)
+![vCard](https://github.com/watterott/vCard/raw/master/hardware/vCard_v10.jpg)
+
+* Microchip ATmega328P with Arduino compatible Bootloader (optiboot)
+* 12 x 8 LED-Matrix
+* Power Supply: CR2032 (3V) / LIR2032 (3.6V) cell battery
 
 
 ## Shop
