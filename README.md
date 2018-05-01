@@ -8,10 +8,6 @@ vCard is an business card with 12 x 8 LED-Matrix (total 96 LEDs) and AVR microco
 * Power Supply: CR2032 (3V) / LIR2032 (3.6V) cell battery
 
 
-## Shop
-* [vCard](http://www.watterott.com/en/V-Card)
-
-
 ## Hardware
 * ![vCard hardware dia](https://github.com/watterott/vCard/raw/master/hardware/hw_dia.png)
 * [Schematics + Layout](https://github.com/watterott/vCard/tree/master/hardware)
