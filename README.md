@@ -6,6 +6,7 @@ vCard is an business card with 12 x 8 LED-Matrix (total 96 LEDs) and AVR microco
 * Microchip ATmega328P with Arduino compatible Bootloader (optiboot)
 * 12 x 8 LED-Matrix
 * Power Supply: CR2032 (3V) / LIR2032 (3.6V) cell battery
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ## Hardware
